@@ -92,9 +92,9 @@ Soy desarrollador de software con experiencia en el desarrollo de aplicaciones w
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=andres07torres&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=andres07torres&show_icons=true&theme=tokyonight&hide_border=true&v=1"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andres07torres&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andres07torres&layout=compact&theme=tokyonight&hide_border=true&v=1"/>
 
 </p>
 
@@ -110,7 +110,7 @@ Soy desarrollador de software con experiencia en el desarrollo de aplicaciones w
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=andres07torres&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=andres07torres&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&v=1"/>
 
 </p>
 
