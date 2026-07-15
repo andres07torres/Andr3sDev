@@ -2,7 +2,9 @@
 
 <div align="center">
 
-### 💻 Full Stack Developer | Laravel & Python Developer | AI Enthusiast
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3382FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%26+Python+Enthusiast;AI+%26+DevOps+Explorer" alt="Typing SVG" />
+</a>
 
 Apasionado por el desarrollo de software, la automatización, la inteligencia artificial y la infraestructura. Me gusta construir aplicaciones escalables, crear herramientas que automaticen procesos y aprender constantemente nuevas tecnologías.
 
@@ -38,116 +40,61 @@ Soy desarrollador de software con experiencia en el desarrollo de aplicaciones w
 # 🛠 Stack Tecnológico
 
 ## ⚙️ Backend
-
 <p>
 <img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs,java,go,django,flask,fastapi" />
 </p>
 
----
-
 ## 🎨 Frontend
-
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,angular,nextjs,tailwind" />
 </p>
 
----
-
 ## 📱 Desarrollo Móvil
-
 <p>
 <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter" />
 </p>
 
----
-
 ## 🗄️ Bases de Datos
-
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
----
-
 ## ⚙️ DevOps & Herramientas
-
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
 </p>
 
 ---
 
-# 📚 Actualmente aprendiendo
+# 📈 Actividad y Contribuciones
 
-- 🤖 AI Agents
-- 🧠 Large Language Models (LLMs)
-- ☁️ Arquitectura de Software
-- 🔐 Seguridad Informática
-- ⚡ DevOps
-- 📋 Jira
-
----
-
-# 📊 Estadísticas de GitHub
-
-<!-- Widget estable de OSS Insight con soporte para modo oscuro/claro -->
 <p align="center">
-  <a href="https://ossinsight.io/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.ossinsight.io/q/generate-user-summary-github-profile?github_id=andres07torres&image_size=auto&color_scheme=dark">
-      <img alt="OSS Insight Widget" src="https://api.ossinsight.io/q/generate-user-summary-github-profile?github_id=andres07torres&image_size=auto&color_scheme=light">
-    </picture>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andres07torres&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- Widget de racha de días en Heroku (Se mantiene porque funciona bien) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andres07torres&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andres07torres&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
----
-
-# 🏆 GitHub Highlights
-
-<!-- Badges nativos de Shields.io (Súper rápidos y nunca se rompen) -->
+<!-- Animación de la Serpiente de GitHub -->
 <p align="center">
-  <a href="https://github.com/andres07torres?tab=repositories">
-    <img src="https://img.shields.io/github/repos/andres07torres?style=for-the-badge&logo=github&color=1a1b26&logoColor=white&label=Repositorios" alt="Repositorios"/>
-  </a>
-  <a href="https://github.com/andres07torres?tab=stars">
-    <img src="https://img.shields.io/github/stars/andres07torres?style=for-the-badge&logo=github&color=1a1b26&logoColor=white&label=Estrellas Recibidas" alt="Estrellas"/>
-  </a>
-  <a href="https://github.com/andres07torres?tab=followers">
-    <img src="https://img.shields.io/github/followers/andres07torres?style=for-the-badge&logo=github&color=1a1b26&logoColor=white&label=Seguidores" alt="Seguidores"/>
-  </a>
-</p>
-
----
-
-# 📈 Gráfico de Actividad
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=andres07torres&theme=tokyo-night&hide_border=true"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andres07torres/andres07torres/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andres07torres/andres07torres/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andres07torres/andres07torres/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
 
 # 💡 Áreas de Interés
 
-- 🚀 Desarrollo Web
-- 📱 Desarrollo Móvil
-- 🤖 Inteligencia Artificial
-- 🧠 Machine Learning
+- 🚀 Desarrollo Web y Móvil
+- 🤖 Inteligencia Artificial & Machine Learning
 - ⚡ Automatización de Procesos
-- ☁️ Cloud Computing
-- 🐳 Docker
-- 🐧 Linux
-- 🔐 Ciberseguridad
-- 🏗️ Arquitectura de Software
-- 📊 Bases de Datos
-- 🌐 APIs REST
+- ☁️ Cloud Computing & DevOps (Docker, Linux)
+- 🔐 Ciberseguridad & Arquitectura de Software
+- 📊 Bases de Datos & APIs REST
 
 ---
 
@@ -155,14 +102,7 @@ Soy desarrollador de software con experiencia en el desarrollo de aplicaciones w
 
 <div align="center">
 
-🌐 **Portafolio**  
-https://andr3sdev7.com
-
-📧 **Correo**  
-sistemas.071020@gmail.com
-
-💼 **LinkedIn**  
-https://www.linkedin.com/in/carlos-torres-guaman/
+🌐 **Portafolio:** https://andr3sdev7.com | 📧 **Correo:** sistemas.071020@gmail.com | 💼 **LinkedIn:** https://www.linkedin.com/in/carlos-torres-guaman/
 
 </div>
 
