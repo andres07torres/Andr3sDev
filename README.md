@@ -76,12 +76,11 @@ Soy desarrollador de software con experiencia en el desarrollo de aplicaciones w
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=andres07torres&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
-<!-- Animación de la Serpiente de GitHub -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andres07torres/andres07torres/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andres07torres/andres07torres/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andres07torres/andres07torres/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andres07torres/Andr3sDev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andres07torres/Andr3sDev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andres07torres/Andr3sDev/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
