@@ -30,7 +30,7 @@ Soy desarrollador de software con experiencia en el desarrollo de aplicaciones w
 
 - 💻 Desarrollador Full Stack.
 - 🎓 Estudiante Universitario.
-- ⚙️ Especializado en Laravel y Python.
+- ⚙️ Especialista en desarrollo de arquitecturas Backend y soluciones Frontend.
 - 🤖 Explorando Inteligencia Artificial, LLMs y Agentes IA.
 - 🐧 Entusiasta de Linux, Docker y DevOps.
 - 🚀 Siempre aprendiendo nuevas tecnologías.
