@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3382FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%26+Python+Enthusiast;AI+%26+DevOps+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3382FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+%26+Frontend+Specialist;AI+%26+DevOps+Explorer" alt="Typing SVG" />
 </a>
 
 Apasionado por el desarrollo de software, la automatización, la inteligencia artificial y la infraestructura. Me gusta construir aplicaciones escalables, crear herramientas que automaticen procesos y aprender constantemente nuevas tecnologías.
